@@ -1,0 +1,13 @@
+{
+  "buildCommand": "pip install -r requirements.txt",
+  "devCommand": "python backend.py",
+  "functions": {
+    "backend.py": {
+      "memory": 3008,
+      "maxDuration": 300
+    }
+  },
+  "env": {
+    "YOUTUBE_API_KEY": "AIzaSyBKrLBQ-BhtpaiJi-OpfiJzBd92i6uPD7Y"
+  }
+}
